@@ -1,0 +1,6 @@
+https://coinmarketcap.com/exchanges/poloniex/  
+    Ethereum  Eth/Btc  price;Siacoin Sc/BTC
+https://coinmarketcap.com/exchanges/51szzc/
+    Ehereum  Eth/CNY  price;Siacoin Sc/CNY
+https://coinmarketcap.com/exchanges/lhang/
+    Ehereum  Eth/CNY  price;Siacoin Sc/CNY
